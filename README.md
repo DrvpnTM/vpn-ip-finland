@@ -1,18 +1,17 @@
-# VPN IP Finland — Dr VPN
+# VPN IP Finland — Fast, Secure VPN for Finland
 
-**VPN IP Finland** is a fast, secure and free VPN for Android. Get a **Finland IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Finland** is a free, open-source, ad-free VPN app for Android, built for users in Finland. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Finland (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_fi_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-finland/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Finland IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Finland, Finland VPN, VPN IP Finland, Finland IP address, free VPN Finland, buy VPN Finland, fast VPN Finland, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Finland, free VPN Finland, fast VPN, VPN IP Finland, Android VPN, unblock websites Finland.</sub>
